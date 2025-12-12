@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Gopika
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd0dWpsenpoZzFiN3M2cGZjeXlpN2JmNDVtbm93dnFqZ2hjYWk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif" alt="code gif">
+<img align="right" width="350" src="./assets/code.gif" alt="code gif">
 
 
 
@@ -12,7 +12,7 @@
 - 🚀 Passionate about building creative & intelligent projects
   
 ### How to reach me
-<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B(https://www.linkedin.com/in/gopika-s067/) <br/>
+<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B(https://www.linkedin.com/in/gopika-s067/)] <br/>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
