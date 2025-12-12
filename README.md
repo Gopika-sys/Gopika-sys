@@ -23,7 +23,7 @@
 
 
 ## 📊 GitHub Stats
-[![GitHub Repos](https://img.shields.io/github/repo-size/Gopika-sys/your-repo-name?style=for-the-badge)](https://github.com/Gopika-sys)
+[![GitHub Repos](https://img.shields.io/github/repo-size/Gopika-sys/MyProject?style=for-the-badge)](https://github.com/Gopika-sys/MyProject)
 
 
 ---
