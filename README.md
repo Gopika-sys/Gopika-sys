@@ -1,10 +1,20 @@
-<h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; color:#1F2937; font-weight:700;">
-Welcome to My Profile
-</h1>
+<!-- Full-Screen Hero Style Welcome -->
+<div style="text-align:center; padding:60px 20px; background:linear-gradient(135deg, #f0f4f8, #d9e2ec); border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);">
 
-<h2 style="font-family: 'Segoe UI', Tahoma, sans-serif; color:#111827; font-weight:600;">
-Hello, I'm <span style="color:#FF6F61;">Gopika</span>
-</h2>
+  <h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:3em; font-weight:800; color:#1F2937; margin-bottom:10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+    Welcome to My Profile
+  </h1>
+
+  <h2 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:2em; font-weight:700; background: linear-gradient(90deg, #FF6F61, #FFB347); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top:0;">
+   Hey there! I’m Gopika
+  </h2>
+
+  <p style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:1em; color:#4B5563; margin-top:15px;">
+    Crafting modern web applications and bringing ideas to life with clean and scalable code.
+  </p>
+
+</div>
+
 
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ3M3Q3ZXVxMWVoejRmcjZzOTh1eWZ3MTBwZ2VkbG85eXJhMm5sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FlJbvchalNGPH6M43X/giphy.gif" alt="code gif">
 
