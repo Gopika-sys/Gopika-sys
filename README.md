@@ -1,20 +1,45 @@
-<div style="text-align:center; padding:40px 20px; background:linear-gradient(135deg, #f0f4f8, #d9e2ec); border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); max-width:700px; margin:auto;">
+<div style="
+    text-align:center;
+    padding:50px 30px;
+    max-width:700px;
+    margin:auto;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border-radius:20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+">
 
-  <h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:3em; font-weight:800; color:#1F2937; margin-bottom:10px; text-shadow: 1px 1px 3px rgba(0,0,0,0.1);">
+  <h1 style="
+      font-size:3em;
+      font-weight:800;
+      margin-bottom:10px;
+      text-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+  ">
     Welcome to My Profile
   </h1>
 
-  <h2 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:2em; font-weight:700; background: linear-gradient(90deg, #FF6F61, #FFB347); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top:0;">
+  <h2 style="
+      font-size:2em;
+      font-weight:700;
+      margin:0;
+      background: linear-gradient(90deg, #FF6F61, #FFB347);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+  ">
     Hey there! I’m Gopika
   </h2>
 
-  <p style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:1em; color:#4B5563; line-height:1.6; margin-top:15px;">
+  <p style="
+      font-size:1.1em;
+      margin-top:15px;
+      line-height:1.6;
+      color: rgba(255, 255, 255, 0.9);
+  ">
     Crafting modern web applications and bringing ideas to life with clean and scalable code.
   </p>
 
 </div>
-
-
 
 
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ3M3Q3ZXVxMWVoejRmcjZzOTh1eWZ3MTBwZ2VkbG85eXJhMm5sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FlJbvchalNGPH6M43X/giphy.gif" alt="code gif">
