@@ -23,7 +23,7 @@
 
 
 ## 📊 GitHub Stats
-[![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=dark)](https://github.com/Gopika-sys)
+![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
 
 
 ---
