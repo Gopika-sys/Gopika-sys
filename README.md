@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Gopika
 
-<img align="right" width="330" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="developer gif" />
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd0dWpsenpoZzFiN3M2cGZjeXlpN2JmNDVtbm93dnFqZ2hjYWk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giphy.gif" alt="code gif">
+
 
 
 ### 🌸 About Me  
@@ -22,7 +23,8 @@
 
 
 ## 📊 GitHub Stats
-![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&theme=dark&show_icons=true&hide=issues,contribs)
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=Gopika-sys&type=fire)
+
 
 ---
 
