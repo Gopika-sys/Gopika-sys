@@ -23,7 +23,8 @@
 
 
 ## 📊 GitHub Stats
-[![Followers](https://img.shields.io/github/followers/Gopika-sys?label=Followers&style=for-the-badge&logo=github)](https://github.com/Gopika-sys)
+![GitHub Stats](https://gitmystat.vercel.app/api?username=Gopika-sys)
+
 
 
 ---
