@@ -3,7 +3,6 @@
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9rN2MybHB4MGZwOHI3N2VmaHhzdjJrZzh5dmxvczhvNmowNWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xqwZB1tG09PwUaKNFb/giphy.gif" alt="code gif">
 
 
-
 ### 🌸 About Me  
 - 🎓 Second Year Computer Science Engineering Student  
 - 💻 Skilled in **HTML • CSS • JavaScript**  
