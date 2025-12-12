@@ -1,57 +1,19 @@
-<!-- Full-Screen Hero Style Welcome -->
-<div style="
-    text-align: center;
-    padding: 60px 30px;
-    max-width: 800px;
-    margin: 40px auto;
-    background: linear-gradient(135deg, #e0e7ff, #f0f4f8);
-    border-radius: 20px;
-    box-shadow: 0 12px 25px rgba(0,0,0,0.12);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-">
-  <h1 style="
-      font-family: 'Segoe UI', Tahoma, sans-serif;
-      font-size: 3em;
-      font-weight: 800;
-      color: #1F2937;
-      margin-bottom: 15px;
-      text-shadow: 2px 2px 6px rgba(0,0,0,0.1);
-  ">
+<div style="text-align:center; padding:40px 20px; background:linear-gradient(135deg, #f0f4f8, #d9e2ec); border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); max-width:700px; margin:auto;">
+
+  <h1 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:3em; font-weight:800; color:#1F2937; margin-bottom:10px; text-shadow: 1px 1px 3px rgba(0,0,0,0.1);">
     Welcome to My Profile
   </h1>
 
-  <h2 style="
-      font-family: 'Segoe UI', Tahoma, sans-serif;
-      font-size: 2em;
-      font-weight: 700;
-      background: linear-gradient(90deg, #FF6F61, #FFB347);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      margin-top: 0;
-      margin-bottom: 20px;
-  ">
+  <h2 style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:2em; font-weight:700; background: linear-gradient(90deg, #FF6F61, #FFB347); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top:0;">
     Hey there! I’m Gopika
   </h2>
 
-  <p style="
-      font-family: 'Segoe UI', Tahoma, sans-serif;
-      font-size: 1.1em;
-      color: #4B5563;
-      line-height: 1.6;
-      max-width: 650px;
-      margin: 0 auto;
-  ">
-    I craft modern web applications and bring ideas to life with clean, efficient, and scalable code. Passionate about learning new technologies and building impactful solutions.
+  <p style="font-family: 'Segoe UI', Tahoma, sans-serif; font-size:1em; color:#4B5563; line-height:1.6; margin-top:15px;">
+    Crafting modern web applications and bringing ideas to life with clean and scalable code.
   </p>
+
 </div>
 
-<!-- Optional hover effect -->
-<style>
-div:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 18px 35px rgba(0,0,0,0.15);
-}
-</style>
 
 
 
