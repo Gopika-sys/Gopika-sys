@@ -23,8 +23,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://gitmystat.vercel.app/api?username=Gopika-sys)
-
+![GitHub Stats](https://your-deployment.vercel.app/api?username=Gopika-sys&theme=dark)
 
 
 ---
