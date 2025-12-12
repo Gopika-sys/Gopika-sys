@@ -23,7 +23,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://your-deployment.vercel.app/api?username=Gopika-sys&theme=dark)
+[![GitHub Repos](https://img.shields.io/github/repo-size/Gopika-sys/your-repo-name?style=for-the-badge)](https://github.com/Gopika-sys)
 
 
 ---
