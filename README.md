@@ -63,7 +63,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
 
 
