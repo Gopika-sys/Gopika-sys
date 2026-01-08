@@ -6,6 +6,8 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/gopika_s2024cse)](https://www.hackerrank.com/gopika_s2024cse)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopikang2006@gmail.com)](mailto:gopikang2006@gmail.com)
 
+---
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ3M3Q3ZXVxMWVoejRmcjZzOTh1eWZ3MTBwZ2VkbG85eXJhMm5sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FlJbvchalNGPH6M43X/giphy.gif" 
      alt="code gif" 
      width="350" 
