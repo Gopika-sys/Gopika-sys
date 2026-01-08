@@ -1,34 +1,11 @@
-<div style="
-    text-align:center;
-    padding:50px 30px;
-    max-width:700px;
-    margin:auto;
-    background: linear-gradient(135deg, #6a11cb, #2575fc);
-    border-radius:20px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-    color:white;
-    font-family: 'Segoe UI', Tahoma, sans-serif;
-">
+<h1>Howdy!, I am <a href="https://github.com/Defcon27">Gopika</a></h1>
 
-  <h1 style="
-      font-size:3em;
-      font-weight:800;
-      margin-bottom:10px;
-      text-shadow: 2px 2px 6px rgba(0,0,0,0.2);
-  ">
-    Welcome to My Profile
-  </h1>
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Gopika-sys/)](https://github.com/Gopika-sys/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopika-s067/)](https://www.linkedin.com/in/gopika-s067)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/gopika_s2024cse)](https://www.hackerrank.com/gopika_s2024cse)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopikang2006@gmail.com)](mailto:gopikang2006@gmail.com)
 
-  <h2 style="
-      font-size:2em;
-      font-weight:700;
-      margin:0;
-      background: linear-gradient(90deg, #FF6F61, #FFB347);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-  ">
-    Hey there! I’m Gopika
-  </h2>
 
   <p style="
       font-size:1.1em;
@@ -45,15 +22,12 @@
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ3M3Q3ZXVxMWVoejRmcjZzOTh1eWZ3MTBwZ2VkbG85eXJhMm5sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FlJbvchalNGPH6M43X/giphy.gif" alt="code gif">
 
 
-### 🌸 About Me  
+### A little about me... 
 - 🎓 Second Year Computer Science Engineering Student  
 - 💻 Skilled in **HTML • CSS • JavaScript**  
 - 🧠 Currently learning **DSA**  
 - 🤖 Interested in the **AI & Machine Learning** domain  
 - 🚀 Passionate about building creative & intelligent projects
-  
-### How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-s067/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
