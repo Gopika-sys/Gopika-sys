@@ -27,7 +27,7 @@
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
   ">
-    Hey there! I’m Gopika
+    Hey there! I’m Gopik
   </h2>
 
   <p style="
