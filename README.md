@@ -15,7 +15,7 @@
      alt="code gif" 
      width="350" 
      align="right"
-     style="transform: translateY(-60px);">
+     style="transform: translateY(-20px);">
 
 
 
