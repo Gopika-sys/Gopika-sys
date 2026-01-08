@@ -10,8 +10,12 @@
 
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ3M3Q3ZXVxMWVoejRmcjZzOTh1eWZ3MTBwZ2VkbG85eXJhMm5sMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FlJbvchalNGPH6M43X/giphy.gif" alt="code gif">
 
+### ✨ A little about me...
+I’m a Computer Science student 🎓 with a strong interest in technology and software development.  
+I enjoy learning new tools, building useful projects, and continuously improving my technical skills. 💻🚀
 
-### A little about me... 
+
+## ⚡️ A Few Quick Facts
 - 🎓 Second Year Computer Science Engineering Student  
 - 💻 Skilled in **HTML • CSS • JavaScript**  
 - 🧠 Currently learning **DSA**  
