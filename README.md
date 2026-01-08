@@ -20,8 +20,6 @@
 I’m a Computer Science student 🎓 with a strong interest in technology and software development.  
 I enjoy learning new tools, building useful projects, and continuously improving my technical skills. 💻🚀
 
----
-
 
 ## ⚡️ A Few Quick Facts
 - 🎓 Second Year Computer Science Engineering Student  
