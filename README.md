@@ -1,6 +1,7 @@
 
 
-![gopika](https://capsule-render.vercel.app/api?type=soft&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:FF5F6D,50:FFC371,100:7F00FF&stroke=ffffff&fontAlign=50&fontAlignY=50&textBg=false)
+![wave](https://capsule-render.vercel.app/api?type=wave&height=220&text=Howdy!%20I%20am%20Gopika&color=0:ff0080,100:7928ca&fontSize=60)
+
 
 <div align="center">
      
