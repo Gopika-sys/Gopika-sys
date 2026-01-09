@@ -1,4 +1,4 @@
-![blur](https://capsule-render.vercel.app/api?type=blur&height=280&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:8e2de2,100:ff6a88&stroke=ffffff&strokeWidth=1&textBg=false&fontAlign=50&fontAlignY=50)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:00c6ff,100:7f00ff&stroke=E0E0E0&strokeWidth=2&textBg=false&fontAlign=50&fontAlignY=50)
 
 <div align="center">
      
