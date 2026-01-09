@@ -1,6 +1,7 @@
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:00c6ff,100:7f00ff&stroke=E0E0E0&strokeWidth=2&textBg=false)
 
-<div align="center>
+<div align="center">
+     
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Gopika-sys/)](https://github.com/Gopika-sys/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopika-s067/)](https://www.linkedin.com/in/gopika-s067)
