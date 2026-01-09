@@ -1,4 +1,5 @@
-![blur](https://capsule-render.vercel.app/api?type=blur&height=300&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:22c1c3,50:fdbb2d,100:fd1d1d&stroke=ffffff&strokeWidth=1&textBg=false&fontAlign=50&fontAlignY=50)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=58&color=0:141e30,100:243b55&stroke=00eaff&strokeWidth=2&textBg=false&fontAlign=50&fontAlignY=50)
+
 
 
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:00c6ff,100:7f00ff&stroke=E0E0E0&strokeWidth=2&textBg=false&fontAlign=50&fontAlignY=50)
