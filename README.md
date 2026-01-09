@@ -1,4 +1,4 @@
-![gopika](https://capsule-render.vercel.app/api?type=wave&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=55&color=0:FF512F,100:DD2476&stroke=FFD700&fontAlign=50&fontAlignY=50&textBg=false)
+![gopika](https://capsule-render.vercel.app/api?type=venom&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:8871e5,100:b678c4&stroke=ffffff&fontAlign=50&fontAlignY=50&textBg=false)
 
 
 
