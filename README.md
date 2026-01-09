@@ -1,13 +1,10 @@
+![gopika](https://capsule-render.vercel.app/api?type=soft&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:FF5F6D,50:FFC371,100:7F00FF&stroke=ffffff&fontAlign=50&fontAlignY=50&textBg=false)
+
 
 ## Gopika <a id="gopika">
 
 ![gopika](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Howdy!%20I%20am%20Gopika&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
-
-
-## Gopika <a id="gopika">
-
-![gopika](https://capsule-render.vercel.app/api?type=wave&height=200&text=I%20am%20Gopika.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
 <h1 align="center">Howdy!, I am <a href="https://github.com/Defcon27">Gopika</a></h1>
