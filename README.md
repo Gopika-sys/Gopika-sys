@@ -1,5 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Howdy!%20I%20am%20Gopika)
-
+![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=58&color=0:ff512f,50:f09819,100:ff6a88&stroke=ffffff&strokeWidth=1&textBg=false)
 
 
 ## Gopika <a id="gopika">
