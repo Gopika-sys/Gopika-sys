@@ -19,13 +19,6 @@
 </a>
 <p align="center">
 
- <!--
-<a href="https://github.com/walidbosso"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
-</a>
-
-<br/>
-
 
 
 
