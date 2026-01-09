@@ -1,4 +1,5 @@
-![gopika](https://capsule-render.vercel.app/api?type=soft&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:FF5F6D,50:FFC371,100:7F00FF&stroke=ffffff&fontAlign=50&fontAlignY=50&textBg=false)
+![gopika](https://capsule-render.vercel.app/api?type=wave&height=250&text=Howdy!%20I%20am%20Gopika&fontSize=55&color=0:FF512F,100:DD2476&stroke=FFD700&fontAlign=50&fontAlignY=50&textBg=false)
+
 
 
 ## Gopika <a id="gopika">
