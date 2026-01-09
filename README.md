@@ -1,14 +1,11 @@
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:00c6ff,100:7f00ff&stroke=E0E0E0&strokeWidth=2&textBg=false)
 
+![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=55&color=0:ff9a9e,100:fad0c4&stroke=ffffff&strokeWidth=1&textBg=false)
 
-## Gopika <a id="gopika">
+
 
 ![gopika](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Howdy!%20I%20am%20Gopika&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
-
-
-<h1 align="center">Howdy!, I am <a href="https://github.com/Defcon27">Gopika</a></h1>
-<div align="center">
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Gopika-sys/)](https://github.com/Gopika-sys/) 
