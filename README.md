@@ -2,7 +2,7 @@
 
 <div align="center">
      
-### 📬 Find me a
+### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Gopika-sys/)](https://github.com/Gopika-sys/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopika-s067/)](https://www.linkedin.com/in/gopika-s067)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/gopika_s2024cse)](https://www.hackerrank.com/gopika_s2024cse)
