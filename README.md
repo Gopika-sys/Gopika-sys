@@ -3,8 +3,9 @@
 </p>
 
 ---
-<div align="center">
 # 🛠 Tech Stack
+
+<div align="center">
 
 ### Programming Languages
 | | | | |
