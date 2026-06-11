@@ -33,18 +33,28 @@ I enjoy learning new tools, building useful projects, and continuously improving
 - 🚀 Passionate about building creative & intelligent projects
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Core Dev** | ![Flutter](https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white) |
-| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/keras-d00000?style=for-the-badge&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white) |
-| **Web & API** | ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
-| **Databases** | ![SQL](https://img.shields.io/badge/sql-4479a1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
-| **Tools** | ![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![ZSH](https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=zsh&logoColor=white) ![VS Code](https://img.shields.io/badge/vs%20code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| Programming Languages | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) | ![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white) | ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white) |
 
+| Libraries & Frameworks | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/keras-d00000?style=for-the-badge&logo=keras&logoColor=white) |
+| ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white) |
+
+| Infrastructure | | |
+| :--- | :--- | :--- |
+| ![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+
+| Databases | | |
+| :--- | :--- | :--- |
+| ![SQL](https://img.shields.io/badge/sql-4479a1?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white) | ![ElasticSearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
+
+| Tools | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| ![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![ZSH](https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=zsh&logoColor=white) | ![VS Code](https://img.shields.io/badge/vs%20code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white) | ![Jupyter](https://img.shields.io/badge/jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 ---
 
 ## 📊 GitHub Stats
