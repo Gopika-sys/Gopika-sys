@@ -11,7 +11,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /><br>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /><br>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /><br>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="40" height="40" alt="Go" /><br>Go</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /><br>C</td>
   </tr>
 </table>
@@ -22,14 +21,11 @@
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /><br>Flutter</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /><br>Dart</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TF" /><br>TensorFlow</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /><br>Docker</td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /><br>Flask</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /><br>Django</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" width="40" height="40" alt="GraphQL" /><br>GraphQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="40" height="40" alt="OpenCV" /><br>OpenCV</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40" alt="Selenium" /><br>Selenium</td>
   </tr>
 </table>
@@ -40,7 +36,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /><br>AWS</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /><br>K8s</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /><br>MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" width="40" height="40" alt="Elastic" /><br>Elastic</td>
   </tr>
 </table>
 
