@@ -3,51 +3,14 @@
 </p>
 
 ---
+## 🛠 Tech Stack
 
-# 🛠 Tech Stack
-### Programming Languages
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /><br>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /><br>C</td>
-  </tr>
-</table>
-
-### Libraries and Frameworks
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /><br>Flutter</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /><br>Dart</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /><br>Flask</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /><br>Django</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40" alt="Selenium" /><br>Selenium</td>
-  </tr>
-</table>
-
-### Infrastructure & Databases
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /><br>AWS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /><br>K8s</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /><br>MongoDB</td>
-  </tr>
-</table>
-
-### Tools
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40" alt="Ubuntu" /><br>Ubuntu</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /><br>VS Code</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /><br>Jupyter</td>
-  </tr>
-</table>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /> |
+| **Frameworks** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /> |
+| **Infra & DB** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /> |
+| **Tools** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40" alt="Ubuntu" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /> |
 
 ## 📊 GitHub Stats
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
