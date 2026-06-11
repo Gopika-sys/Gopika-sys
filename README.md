@@ -20,6 +20,7 @@
 </a>
 
 <br>
+
 *Feel free to reach out for collaborations or project discussions!*
 
 </div>
