@@ -42,10 +42,12 @@
 
 ---
 
+<div align="center">
+  
 ## 🔥 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=Gopika-sys&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
-
+</div
 
 
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
