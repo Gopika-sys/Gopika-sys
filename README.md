@@ -3,9 +3,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/Gopika-sys/Gopika-sys/blob/main/Tropicana%20Etsy%20Banner.png?raw=true" alt="Gopika Banner" width="100%">
-</p>
 
 # 🛠 Tech Stack
 
