@@ -5,8 +5,6 @@
 ---
 <div align="center">
 
-## 📬 Let's Connect
-
 <a href="https://www.linkedin.com/in/gopika-s067/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
