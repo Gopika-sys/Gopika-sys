@@ -1,4 +1,4 @@
-![blur](https://capsule-render.vercel.app/api?type=blur&height=260&text=Howdy!%20I%20am%20Gopika&fontSize=60&color=0:00c6ff,100:7f00ff&stroke=E0E0E0&strokeWidth=2&textBg=false&fontAlign=50&fontAlignY=50)
+![AquaOps Preview](https://lh3.googleusercontent.com/gg/AEir0wKigAkwXYk2oHbDoM8MKPNkRJmS5HB2_O41E9CvHX6TOpk6b1haTsN-ynAvonT5AsJF8NVz4ZTI9UVYRukyOrnjYZ-m5VZNiuAW5SMV7X7Dz4U2T1d27bumKTfKgVhRBDipu0BwcaQG38N9e6NLk0tPgJxuTy5Jvpb377bVqy1zZgZMjJR4Mi0q9B2VuZjrj-cA6S5ZEquxroiDKptI_DAIR6TGgKnWTACkL5PQr63DkQ-Ozaw46tCpaegQdUGrhLWuqyjOIF20Qsk8oGzJ-deeyiGH_NK3UCBCNRVUKNNR3zFdp3qnJE4nf9G4P9pqGM931nhgBCvtvZUbod8gmKsg=s1600)
 
 <div align="center">
      
