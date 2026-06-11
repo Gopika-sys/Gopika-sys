@@ -34,8 +34,6 @@ I enjoy learning new tools, building useful projects, and continuously improving
 ---
 
 # 🛠 Tech Stack
-# 🛠 Tech Stack
-
 ### Programming Languages
 <table>
   <tr>
@@ -84,7 +82,7 @@ I enjoy learning new tools, building useful projects, and continuously improving
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /><br>Jupyter</td>
   </tr>
 </table>
----
+
 ## 📊 GitHub Stats
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
 
