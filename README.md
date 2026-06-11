@@ -32,14 +32,13 @@
 
 </div>
 
+<div align="center">
+
 ## 📊 GitHub Stats
-![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
+![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight)
 
+</div>
 
----
-
-## 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gopikacs24?theme=dark&font=Maven%20Pro)](https://leetcode.com/Gopikacs24)
 
 ---
 
