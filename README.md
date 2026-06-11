@@ -34,29 +34,57 @@ I enjoy learning new tools, building useful projects, and continuously improving
 ---
 
 # 🛠 Tech Stack
+# 🛠 Tech Stack
 
-| Programming Languages | | | | |
-| :--- | :--- | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) | ![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white) | ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white) |
+### Programming Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /><br>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="40" height="40" alt="Go" /><br>Go</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /><br>C</td>
+  </tr>
+</table>
 
-| Libraries & Frameworks | | | | |
-| :--- | :--- | :--- | :--- | :--- |
-| ![Flutter](https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-0175c2?style=for-the-badge&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/keras-d00000?style=for-the-badge&logo=keras&logoColor=white) |
-| ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white) |
+### Libraries and Frameworks
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /><br>Flutter</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /><br>Dart</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="40" height="40" alt="TF" /><br>TensorFlow</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /><br>Flask</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /><br>Django</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" width="40" height="40" alt="GraphQL" /><br>GraphQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="40" height="40" alt="OpenCV" /><br>OpenCV</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40" alt="Selenium" /><br>Selenium</td>
+  </tr>
+</table>
 
-| Infrastructure | | |
-| :--- | :--- | :--- |
-| ![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+### Infrastructure & Databases
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /><br>AWS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /><br>K8s</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png" width="40" height="40" alt="Elastic" /><br>Elastic</td>
+  </tr>
+</table>
 
-| Databases | | |
-| :--- | :--- | :--- |
-| ![SQL](https://img.shields.io/badge/sql-4479a1?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white) | ![ElasticSearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
-
-| Tools | | | | |
-| :--- | :--- | :--- | :--- | :--- |
-| ![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![ZSH](https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=zsh&logoColor=white) | ![VS Code](https://img.shields.io/badge/vs%20code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white) | ![Jupyter](https://img.shields.io/badge/jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+### Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40" alt="Ubuntu" /><br>Ubuntu</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /><br>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /><br>VS Code</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /><br>Jupyter</td>
+  </tr>
+</table>
 ---
-
 ## 📊 GitHub Stats
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
 
