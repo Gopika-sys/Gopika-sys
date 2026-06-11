@@ -7,22 +7,32 @@
   <img src="https://github.com/Gopika-sys/Gopika-sys/blob/main/Tropicana%20Etsy%20Banner.png?raw=true" alt="Gopika Banner" width="100%">
 </p>
 
-# 👋 Hello, I'm Gopika
+# 🛠 Tech Stack
 
-**Flutter Developer | Mobile App Developer | UI/UX**
+<div align="center">
 
-*Building Scalable Mobile Applications with Flutter & AI*
+### Programming Languages
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /><br>Python | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /><br>JavaScript | <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /><br>TypeScript | <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /><br>C |
 
----
+### Libraries and Frameworks
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /><br>Flutter | <img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /><br>Dart | <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /><br>Firebase | <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /><br>Docker |
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /><br>Flask | <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /><br>Django | <img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40" alt="Selenium" /><br>Selenium | |
 
-## 🛠 Tech Stack
+### Infrastructure & Databases
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /><br>AWS | <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /><br>K8s | <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /><br>MongoDB |
 
-| Category | Skills & Tools |
-| :--- | :---: |
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" /><br>Python &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JS" /><br>JS &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" alt="TS" /><br>TS &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40" height="40" alt="C" /><br>C |
-| **Libraries & Frameworks** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="40" height="40" alt="Flutter" /><br>Flutter &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="40" height="40" alt="Dart" /><br>Dart &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40" height="40" alt="Firebase" /><br>Firebase &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" /><br>Docker <br> <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40" height="40" alt="Flask" /><br>Flask &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" /><br>Django &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" width="40" height="40" alt="Selenium" /><br>Selenium |
-| **Infra & Databases** | <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40" alt="AWS" /><br>AWS &nbsp; <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s" /><br>K8s &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40" height="40" alt="MongoDB" /><br>MongoDB |
-| **Tools** | <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40" alt="Ubuntu" /><br>Ubuntu &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /><br>Git &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /><br>VS Code &nbsp; <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /><br>Jupyter |>
+### Tools
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40" height="40" alt="Ubuntu" /><br>Ubuntu | <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" /><br>Git | <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" /><br>VS Code | <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" alt="Jupyter" /><br>Jupyter |
+
+</div>
 
 ## 📊 GitHub Stats
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika-sys&show_icons=true&theme=tokyonight) 
