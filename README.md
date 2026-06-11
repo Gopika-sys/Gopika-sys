@@ -1,5 +1,8 @@
-![AquaOps Preview](https://lh3.googleusercontent.com/gg/AEir0wKigAkwXYk2oHbDoM8MKPNkRJmS5HB2_O41E9CvHX6TOpk6b1haTsN-ynAvonT5AsJF8NVz4ZTI9UVYRukyOrnjYZ-m5VZNiuAW5SMV7X7Dz4U2T1d27bumKTfKgVhRBDipu0BwcaQG38N9e6NLk0tPgJxuTy5Jvpb377bVqy1zZgZMjJR4Mi0q9B2VuZjrj-cA6S5ZEquxroiDKptI_DAIR6TGgKnWTACkL5PQr63DkQ-Ozaw46tCpaegQdUGrhLWuqyjOIF20Qsk8oGzJ-deeyiGH_NK3UCBCNRVUKNNR3zFdp3qnJE4nf9G4P9pqGM931nhgBCvtvZUbod8gmKsg=s1600)
+<p align="center">
+  <img src="https://github.com/Gopika-sys/Gopika-sys/blob/main/Tropicana%20Etsy%20Banner.png?raw=true" alt="Gopika Banner" width="100%">
+</p>
 
+---
 <div align="center">
      
 ### 📬 Find me at
