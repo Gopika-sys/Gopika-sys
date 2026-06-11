@@ -3,16 +3,19 @@
 </p>
 
 ---
-
 <div align="center">
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-s067/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopika-sys)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopikang2006@gmail.com)
-
-*Feel free to reach out for collaborations or project discussions!*
+<a href="https://www.linkedin.com/in/gopika-s067/">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/linkedin/linkedin.png" width="50" alt="LinkedIn" />
+</a>
+<a href="https://github.com/gopika-sys">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="50" alt="GitHub" />
+</a>
+<a href="mailto:gopikang2006@gmail.com">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/gmail/gmail.png" width="50" alt="Email" />
+</a>
 
 </div>
 
